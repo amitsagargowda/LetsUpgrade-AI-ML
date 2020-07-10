@@ -23,8 +23,5 @@ Letsupgrade Assignment are present in this repositoray
 ##### 6) aiml_day3_assignment6.ipynb
          Python program to demonstrate all the available data types. Hint: Use type() function. 
    
-##### 7) aiml_day3_assignment7.ipynb
-         Python program to convert fahrenheit to kelvin and celsius both. 
-   
-##### 8) aiml_day3_assignment8.ipynb
+#### 8) aiml_day3_assignment7.ipynb
          Create a Markdown cell in jupyter to create Github profile and upload Githubs Assignment link. 
