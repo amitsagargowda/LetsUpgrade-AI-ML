@@ -24,4 +24,4 @@ Letsupgrade Assignment are present in this repositoray
          Python program to demonstrate all the available data types. Hint: Use type() function. 
    
 #### 8) aiml_day3_assignment7.ipynb
-         Create a Markdown cell in jupyter to create Github profile and upload Githubs Assignment link. 
+         Create a Markdown cell in jupyter explaining process of creating Github profile and upload Githubs Assignment link. 
