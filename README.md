@@ -48,3 +48,22 @@ Letsupgrade Assignment are present in this repositoray
 ##### 5) aiml_day4_assignment5.ipynb
          Consider a list of 10 elements. Print all the elements in the list which are greater 
          than 7 when that number is divided 2.  
+         
+## **Day-5**
+
+##### 1) aiml_day5_assignment1.ipynb
+         Write a Python program to find the first 20 non-even prime natural numbers. 
+   
+##### 2) aiml_day5_assignment2.ipynb
+         Write a Python program to implement 15 functions of string.  
+   
+#####  3) aiml_day5_assignment3.ipynb
+           Write a Python program to check if the given string is a Palindrome or 
+           Anagram or None of them. Display the message accordingly to the user.
+   
+##### 4) aiml_day5_assignment4.ipynb
+         Write a Python's user defined function that removes all the additional 
+         characters from the string and converts it finally to lower case using 
+         built-in lower(). eg: If the string is "Dr. Darshan Ingle @AI-ML Trainer", 
+         then the output be "drdarshaningleaimltrainer".  
+
