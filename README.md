@@ -66,4 +66,85 @@ Letsupgrade Assignment are present in this repositoray
          characters from the string and converts it finally to lower case using 
          built-in lower(). eg: If the string is "Dr. Darshan Ingle @AI-ML Trainer", 
          then the output be "drdarshaningleaimltrainer".  
+         
+         
+## **Day-6**
+
+##### 1) aiml_day6_assignment1.ipynb
+         Assuming that we have some email addresses in the "username@companyname.com" 
+         format, please write program to print the company name of a given email address. 
+         Both user names and company names are composed of letters only.
+         
+         Input Format:
+                  The first line of the input contains an email address.
+         Output Format:
+                  Print the company name in single line.
+
+         Example:
+                  Input:
+                           john@google.com
+                  Output:
+                           google
+
+##### 2) aiml_day6_assignment2.ipynb
+         Write a program that accepts a comma-separated sequence of words as input and 
+         prints the words in a comma separated sequence after sorting them alphabetically.
+
+         Input Format:
+                  The first line of input contains words separated by the comma.
+         Output Format:
+                  Print the sorted words separated by the comma.
+
+         Example:
+                  Input:
+                           without,hello,bag,world
+                  Output:
+                           bag,hello,without,world  
+   
+#####  3) aiml_day6_assignment3.ipynb
+         Create your own Jupyter Notebook for Sets.
+         Reference link: https://www.w3schools.com/python/python_sets.asp
+   
+##### 4) aiml_day6_assignment4.ipynb
+         Given a list of n-1 numbers ranging from 1 to n, your task is to find the missing 
+         number. There are no duplicates.
+
+         Input Format:
+                  The first line contains n-1 numbers with each number separated by a space.
+         Output Format:
+                  Print the missing number
+
+         Example:
+                  Input:1 2 4 6 3 7 8
+         Output:5
+
+         Explanation:
+                  In the above list of numbers 5 is missing and hence 5 is the output
+                
+##### 5) aiml_day6_assignment5.ipynb     
+         With a given list L, write a program to print this list L after removing all 
+         duplicate values with original order reserved.
+         
+         Example:
+                  If the input list is
+                  12 24 35 24 88 120 155 88 120 155
+                  Then the output should be
+                  12 24 35 88 120 155
+
+         Explanation:
+                  Third, seventh and ninth element of the list L has been removed because 
+                  it was already present.
+
+         Input Format:
+                  In one line take the elements of the list L with each element separated 
+                  by a space.
+         Output Format:
+                  Print the elements of the modified list in one line with each element separated 
+                  by a space.
+
+         Example:
+                  Input: 12 24 35 24
+         Output:
+                  12 24 35
+
 
