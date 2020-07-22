@@ -168,4 +168,14 @@ Letsupgrade Assignment are present in this repositoray
 
 ##### 1) aiml_day10_assignment1.ipynb
          Dervie 10 Hypothesis from Day7 HR attriation Assignment
+         
+## **Day-11**
+
+##### 1) aiml_day11_assignment1.ipynb
+         Correlation between Attrition and other variable
+  
+## **Day-12**
+
+##### 1) aiml_day12_assignment1.ipynb
+         non parametric tests
 
