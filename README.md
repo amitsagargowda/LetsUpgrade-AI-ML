@@ -185,3 +185,10 @@ Letsupgrade Assignment are present in this repositoray
 ##### 1) aiml_day15_assignment1.ipynb
          Fill the questions with correct answers
 
+
+## **Day-16**
+
+##### 1) aiml_day16_assignment1.ipynb
+         Fill the questions with correct answers
+
+
